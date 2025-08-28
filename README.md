@@ -58,6 +58,6 @@ If you’re building something meaningful in this space, let’s connect.
 If you're working on DeFi protocols, NFT platforms, trading infrastructure, or automation bots — let’s connect!
 I’m open to collaboration, consulting, and co-building innovative Web3 projects.
 
-📬 Reach me here on GitHub or connect via [LinkedIn/Telegram/Email — your choice].
+📬 Reach me anytime.
 
 🔥 "Building the future of finance, one block at a time."
