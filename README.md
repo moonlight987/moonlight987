@@ -1,55 +1,58 @@
 👋 Hello Crypto Fans and Manager!
 
-💻 Senior Blockchain & Full-Stack Developer | Smart Contracts • DeFi • NFTs • Automation Bots
+💻 Senior Blockchain & Full-Stack Developer | Smart Contracts • DApps • DeFi • NFTs • Automation
 
 🚀 About Me
 
-I’m a senior blockchain developer with deep expertise across smart contracts, decentralized applications (DApps), and DeFi infrastructure.
-I specialize in end-to-end product development — from blockchain core logic to frontend integration and backend automation.
+I’m a senior developer with solid experience in blockchain, smart contracts, and full-stack Web3 applications.
+My work spans from secure on-chain protocols to user-friendly DApps and automation tools for DeFi.
 
-🔗 Passionate about DeFi, NFT ecosystems, AI-powered trading automation, and Web3 product scaling.
-⚡ Strong focus on performance, security, and real-world usability in blockchain systems.
+I enjoy building scalable systems, reliable trading tools, and innovative decentralized applications that bring real value to users.
 
 🧠 Core Expertise
 
-Smart Contracts & DeFi Protocols – Ethereum, Solana, Sui, EVM-compatible chains
+Smart Contracts & DeFi Protocols (Ethereum, Solana, Sui, EVM chains)
 
-Decentralized Applications (DApps) – Wallet integration, staking, swapping, NFT marketplaces
+DApps Development (wallet integration, staking, swapping, NFT platforms)
 
-Frontend – React, TypeScript, Web3.js, Ethers.js
+Frontend (React, TypeScript, Web3/Ethers.js)
 
-Backend – Node.js, Python, Express, REST/GraphQL APIs
+Backend (Node.js, Python, Express)
 
-Automation & Trading Bots – Market-making bots, snipers, liquidity/volume managers
+Automation Tools (trading bots, snipers, liquidity/market-making bots)
 
-NFTs – Deployment, minting platforms, metadata services, marketplaces
+NFT Ecosystems (minting, marketplaces, metadata services)
 
 ⚒️ Highlight Projects
 
-DeFi DEX Platform – Built smart contracts + frontend for token swaps, staking, and liquidity pools
+Decentralized Exchange (DEX): Token swaps, staking, liquidity pools
 
-NFT Marketplace – Integrated minting, auctions, and royalties with React & Solidity backend
+NFT Marketplace: Minting, auctions, royalty integration
 
-Cross-Chain Trading Bot – Automated strategies across Solana & EVM with real-time execution
+Cross-Chain Trading Bots: Automated execution across Solana & EVM
 
-Liquidity Tools – Designed smart contract + automation tools for token deployment & liquidity management
+Liquidity & Token Tools: Deployment and liquidity management systems
 
-AI Trading Assistant – Integrated on-chain data feeds with AI-powered decision bots
+AI-Powered Trading Agents: On-chain data + automation strategies
 
-🧰 Tech Stack & Focus
+🧰 Tech Stack
 
-Blockchain: Solidity (EVM), Rust/Anchor (Solana), Move (Sui)
+Blockchain: Solidity, Rust/Anchor, Move
 
-Languages: TypeScript, JavaScript, Python, Node.js
+Languages: TypeScript, JavaScript, Python
 
-Frontend: React, Next.js, Tailwind, Web3/Ethers.js
+Frontend: React, Next.js, Tailwind
 
-Backend: Express, NestJS, REST/GraphQL APIs
+Backend: Node.js, Express, REST/GraphQL APIs
 
-Automation: Trading Bots, Snipers, Market-Making, Volume Tools
+Infra & Automation: MEV, Jito bundles, trading/market bots
 
-Infra: MEV, Jito Bundles, Cross-chain DeFi integrations
+🤝 Collaboration
 
+I’m open to working on DeFi, NFT, trading infrastructure, and Web3 product development.
+If you’re building something meaningful in this space, let’s connect.
+
+📩 Reach me anytime via anything.
 🤝 Let's Build Together
 
 If you're working on DeFi protocols, NFT platforms, trading infrastructure, or automation bots — let’s connect!
