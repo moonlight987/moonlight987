@@ -15,23 +15,19 @@
     </a>
   </h1>
 </div>
+
 👋 Hello Crypto Fans and Manager!
 
 I’m a senior developer with solid experience in blockchain, smart contracts, and full-stack Web3 applications.
 My work spans from secure on-chain protocols to user-friendly DApps and automation tools for DeFi.
-
 I enjoy building scalable systems, reliable trading tools, and innovative decentralized applications that bring real value to users.
 
 ⚒️ Highlight Projects
 
 Decentralized Exchange (DEX): Token swaps, staking, liquidity pools
-
 NFT Marketplace: Minting, auctions, royalty integration
-
 Cross-Chain Trading Bots: Automated execution across Solana & EVM
-
 Liquidity & Token Tools: Deployment and liquidity management systems
-
 AI-Powered Trading Agents: On-chain data + automation strategies
 
 
