@@ -1,6 +1,6 @@
-👋 Hello Crypto Fans and Manager!
 
-💻 Senior Blockchain & Full-Stack Developer | Smart Contracts • DApps • DeFi • NFTs • Automation
+
+
 
 
 
@@ -15,6 +15,7 @@
     </a>
   </h1>
 </div>
+👋 Hello Crypto Fans and Manager!
 
 I’m a senior developer with solid experience in blockchain, smart contracts, and full-stack Web3 applications.
 My work spans from secure on-chain protocols to user-friendly DApps and automation tools for DeFi.
@@ -33,8 +34,6 @@ Liquidity & Token Tools: Deployment and liquidity management systems
 
 AI-Powered Trading Agents: On-chain data + automation strategies
 
-
-<a href="#--about-me--"><img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=moonlight987&data=followers,repositories,stars,commits&theme=radical&title_color=000000"></a>
 
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 <br/><br/>
