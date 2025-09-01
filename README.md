@@ -52,7 +52,7 @@ AI-Powered Trading Agents: On-chain data + automation strategies
 
 <table align="center">
   <tr>
-    <td align="center" width="95%">
+    <td align="center" width="45%">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=moonlight987&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=default" alt="moonlight987's github stats" />
     </td>
   
